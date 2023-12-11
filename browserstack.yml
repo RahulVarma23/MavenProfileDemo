@@ -1,0 +1,21 @@
+userName: rahulkanhaiyalal_PUogB3
+accessKey: Wz8g3sCw5skcVXN9Pe3N
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 103.0
+  - os: Windows
+    osVersion: 10
+    browserName: Firefox
+    browserVersion: 102.0
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1
+  
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
+consoleLogs: info
